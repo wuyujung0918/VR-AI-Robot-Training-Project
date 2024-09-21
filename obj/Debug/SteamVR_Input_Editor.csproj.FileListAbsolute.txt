@@ -1,0 +1,2 @@
+C:\Users\user\Pictures\RobotArm1108\obj\Debug\SteamVR_Input_Editor.csproj.AssemblyReference.cache
+C:\Users\user\Pictures\RobotArm1108\obj\Debug\SteamVR_Input_Editor.csproj.CoreCompileInputs.cache
