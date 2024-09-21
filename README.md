@@ -1,5 +1,7 @@
 # VR-AI Robot Training Environment
 
+## For more details, please refer to master
+
 Copyright (c) 2024 VR-AI Robot Training Project by Yu-Jung, Wu
 
 ## Project Overview
